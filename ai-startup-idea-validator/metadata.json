@@ -1,0 +1,6 @@
+{
+  "name": "AI Startup Idea Validator",
+  "description": "An AI-powered startup idea validation engine providing market analysis, competitor mapping, SWOT analysis, TAM/SAM/SOM estimations, marketing strategy, revenue models, and exportable investor reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
